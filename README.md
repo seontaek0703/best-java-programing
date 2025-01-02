@@ -20,12 +20,21 @@ Section 06 - steop 07 강의 내용중 유용한 내용이 있어 아래 내용�
 
 > My 10 Rules for Happy Programmers
 > > Embrace the challenge
+> > 
 > > It's okay to fail
+> > 
 > > Practice makes perfect
+> > 
 > > Be Patient
+> > 
 > > Have fun
+> > 
 > > Do not give up
+> > 
 > > Break it down
+> > 
 > > Be persistent
+> > 
 > > Celebrate progress
+> > 
 > > Stay Curios
