@@ -18,23 +18,23 @@ Section 06 - steop 07 강의 내용중 유용한 내용이 있어 아래 내용�
 |선언한 변수를 타입을 붙여 재선언할 수 있음|이미 선언한 변수를 재선언시 컴파일 에러|
 |할당하지 않은 변수 호출 시 0을 반환|초기화하지 않은 변수를 호출하면 컴파일 에러|
 
-> My 10 Rules for Happy Programmers
-> > Embrace the challenge
-> > 
-> > It's okay to fail
-> > 
-> > Practice makes perfect
-> > 
-> > Be Patient
-> > 
-> > Have fun
-> > 
-> > Do not give up
-> > 
-> > Break it down
-> > 
-> > Be persistent
-> > 
-> > Celebrate progress
-> > 
-> > Stay Curios
+### My 10 Rules for Happy Programmers
+> Embrace the challenge
+> 
+> It's okay to fail
+>  
+> Practice makes perfect
+>  
+> Be Patient
+> 
+> Have fun
+> 
+> Do not give up
+> 
+> Break it down
+>  
+> Be persistent
+>  
+> Celebrate progress
+>  
+> Stay Curios
