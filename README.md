@@ -50,5 +50,33 @@ Section 06 - steop 07 강의 내용중 유용한 내용이 있어 아래 내용�
   1. Generate getters and setters using Eclipse. (Right-click -> Source -> Generate Getters and Setters... and select the method to generate getters and setters.) This is the first step.
   2. Create a method to handle repetitive or complex patterns and identical validation to avoid excessive typing. This is the second step.
 
+### 추상화?
 
+  프로그래밍이나 Object Oriented Programming의 핵심 개념으로 작용한다.
+  캡슐화와 비슷한 성격으로 여겨지지만 훨씬 포괄적인 개념으로 모든 복잡한 내용을 숨기고 응용 프로그램 인터페이스 유저는 복잡한 세부 내용을 알 필요가 없다.
+  ex) 자동차를 구매해서 운전하는데에는 운전자가 직접 자동차를 설계하는 법이나 어떤 에너지를 사용하고 어떻게 굴러갈게 할 것인지 몰라도 되는 것과 같다.(물론 알면 좋겠지만)
+
+### 생성자(Constructor)
+
+  새로운 객체를 생성할 때 new 키워드를 사용하여 생성자를 호출한다.
+  임의의 생성자를 명시할 경우 Default Constructor를 제공하지 않기 때문에 인자가 없는 형태의 Default Constructor를 생성해준다.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
 
