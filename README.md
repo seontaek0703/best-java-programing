@@ -38,3 +38,17 @@ Section 06 - steop 07 강의 내용중 유용한 내용이 있어 아래 내용�
 > Celebrate progress
 >  
 > Stay Curios
+
+## 2025-01-08
+
+### 데이터는 반드시 메서드를 거쳐서 외부에 노출되어야 하는 이유(캡슐화)
+
+캡슐화의 주된 목적은 데이터 유효성 검사를 진행하여 예측 범위를 벗어난 데이터가 클래스에 접근하는 것을 막음.
+
+### 캡슐화의 단계?
+
+  1. Generate getters and setters using Eclipse. (Right-click -> Source -> Generate Getters and Setters... and select the method to generate getters and setters.) This is the first step.
+  2. Create a method to handle repetitive or complex patterns and identical validation to avoid excessive typing. This is the second step.
+
+
+
